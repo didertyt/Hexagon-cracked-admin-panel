@@ -22,11 +22,11 @@ local requestFunc = (syn and syn.request)
 local CONFIG_FILE = "webhook_sender_config.json"
 
 local defaultConfig = {
-    webhookUrl = "https://discord.com/api/webhooks/1531463523803336876/MiLbMZsOFm_bDVwZ-ANBLHGbPuFAlmyV-X2GPOQrdSD3OIT_thq6Kc4-wMtiKruI8WRh",
-    botUsername = "by Viq",
-    avatarUrl = "",
+    webhookUrl = "insert webhook here...",
+    botUsername = "Tys Client",
+    avatarUrl = "by Viq",
     message = "",
-    count = "5",
+    count = "6.7",
     delay = "1",
     history = {},
 }
